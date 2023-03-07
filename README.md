@@ -1,0 +1,1 @@
+This repository is for a quant research report by CUHK Quant Trading Society published on 2023/03/08. Please find the full report in the link below https://www.cuqts.com/quant-research-report/how-do-g10-currency-pairs-deviate-from-international-parity-conditions%3F-.
